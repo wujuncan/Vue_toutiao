@@ -39,14 +39,12 @@ yarn build
 
 ------
 
-- <img src="D:\Git\Vue_toutiao\example\login.jpg" style="zoom:50%;" />
+- <img src="img\login.jpg" style="zoom:50%;" />
 
 
 
-- <img src="D:\Git\Vue_toutiao\example\home.jpg" style="zoom:50%;" />
+- <img src="img\home.jpg" style="zoom:50%;" />
 
 
 
-- <img src="D:\Git\Vue_toutiao\example\tag.jpg" style="zoom:50%;" />
-
-- <img src="D:\Git\Vue_toutiao\example\屏幕截图 2022-03-23 172044.jpg" style="zoom:50%;" />
+- <img src="img\tag.jpg" style="zoom:50%;" />
