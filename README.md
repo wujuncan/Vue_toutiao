@@ -1,5 +1,10 @@
 # toutiao-m
 
+## 安装依赖
+```
+npm install
+```
+
 ## Project setup
 ```
 yarn install
